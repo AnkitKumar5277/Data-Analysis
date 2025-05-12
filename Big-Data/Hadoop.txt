@@ -1,0 +1,32 @@
+storage unit 
+storage unit data ko store, manage aur access karne ke liye organize kiya jata hai.
+
+YARN
+YARN (Yet Another Resource Negotiator) ek resource management layer hai 
+jo Hadoop ecosystem mein alag-alag applications ke liye system resources allocate aur manage karta hai.
+
+Hadoop ka use
+Hadoop ka use large-scale data ko efficiently store, process aur analyze karta hai.
+
+Hadoop
+Hadoop ek open-source framework hai, jo big data ko distributed tareeke se store aur process karta hai.
+
+Hadoop Applications :
+बिलकुल! यहाँ Hadoop applications को simple और clear एक-एक line में समझाया है:
+1️⃣ Big Data Storage and Processing — Hadoop बड़े data को store और जल्दी process करने में मदद करता है।
+ 2️⃣ Data Warehousing — Hadoop बहुत बड़े data को traditional warehouses की जगह सस्ते में store करता है।
+ 3️⃣ Log and Event Data Analysis — Hadoop logs और events का analysis करके user behavior को समझने में मदद करता है।
+ 4️⃣ Recommendation Systems — Hadoop का use personalized recommendations देने वाले systems बनाने में होता है।
+ 5️⃣ Fraud Detection — Hadoop suspicious transactions पकड़ने और fraud alerts देने में मदद करता है।
+ 6️⃣ Search Engines — Hadoop billions webpages को crawl और index करने में search engines को help करता है।
+ 7️⃣ Social Media Analytics — Hadoop social media data (posts, comments) का analysis करके trends दिखाता है।
+ 8️⃣ Healthcare and Genomics — Hadoop medical data और DNA information को analyze करने में doctors को support करता है।
+ 9️⃣ Retail and E-Commerce — Hadoop customer के खरीदने के patterns और market trends समझने में use होता है।
+ 🔟 IoT and Sensor Data Processing — Hadoop IoT devices से आए massive data को efficiently process करता है।
+Vid 3
+HDFS 
+(Hadoop Distributed File System) ek distributed storage system hai jo bade data ko multiple machines par store karke efficiently manage karta hai.
+
+MapReduce 
+MapReduce data ko process aur analyze karne ke liye use hota hai.
+MapReduce ek programming model hota hai jo large data ko parallel processing ke through "Map" (filtering & sorting) aur "Reduce" (summarizing) steps mein process karta hai.

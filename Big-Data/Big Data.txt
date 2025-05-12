@@ -1,0 +1,42 @@
+Big data 
+Big Data: Large, complex data sets requiring advanced processing techniques.
+
+Big Types :
+Structured Data – Structured data: organized, fixed-format data in databases, easily searchable.
+Unstructured Data – Unstructured data: raw, unorganized information without predefined format or schema.
+Semi-Structured Data – Semi-structured data: flexible format, partial organization, like JSON, XML.
+Quasi-Structured Data – Quasi-Structured Data woh data hota hai jo partially structured hota hai, jaise JSON ya XML, jaise log files, clickstream data, aur sensor data.
+
+Distributed storage systems
+Distributed storage systems, multiple servers par data store karne ka system hota hai.
+
+How to store and process Big Data ek sentence mein
+Big Data ko store karne ke liye distributed storage systems (jaise Hadoop HDFS, AWS S3) use kiya jata hai, 
+aur process karne ke liye parallel computing frameworks (jaise Apache Spark, MapReduce) ka use hota hai.
+
+Data generated per minute
+Har minute duniya mein lagbhag 1.7 MB data per person generate hota hai, jo social media posts, online transactions, searches aur sensors se aata hai.
+
+Big Data ka application 
+Data Engineering mein Big Data ka application data ko store, process aur analyze karne mein hota hai.
+Healthcare:
+ Data se treatment personalize aur disease pehle predict kiya jaata.
+Finance:
+ Data se fraud pakadte aur market risks ko manage karte.
+Retail:
+ Customer ka behavior samajhkar inventory aur sales ko manage karte.
+Manufacturing:
+ Machines ka data dekhar repair aur supply chain ko optimize karte.
+Social Media & Marketing:
+ Data se ads target aur customer ka mood samjha jaata hai.
+Transportation:
+ Traffic control, route planning aur smart vehicles ko data guide karta.
+Energy Sector:
+ Data se electricity use predict aur waste ko control kiya jaata.
+Education:
+ Students ka data padhkar unka study plan better banate hain.
+Government:
+ Public service aur law improve karne ke liye data ka use.
+Sports:
+ Players aur fans ka data padhkar strategy aur experience better.
+
